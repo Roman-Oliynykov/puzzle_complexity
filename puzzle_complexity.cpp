@@ -17,7 +17,7 @@ vector<pair<double,double> > pt = { pair<double, double>( minX / 1.1 ,0.1),  // 
 			pair<double, double>(200000,180),
 			pair<double, double>(1000000,240),
 			pair<double, double>(10000000,600),
-			pair<double, double>(maxX * 1.1, 3) // the final value, the first component should be greater than maxX
+			pair<double, double>(maxX * 1.1, 700) // the final value, the first component should be greater than maxX
 };
 
 double f(double x) {
